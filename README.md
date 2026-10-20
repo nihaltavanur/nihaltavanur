@@ -53,3 +53,8 @@ Contributed to proof-of-concept projects and client assignments applying data an
 - Organized a technical fest with more than 200 participants.
 - Completed Robotics and 3D Printing workshops at MES College of Engineering.
 - Completed Voice of Stakeholder training through the Young Innovators Program 6.0, conducted by K-DISC.
+
+
+## Project Demo
+
+I also created a separate portfolio demo: [Cyberbullying Text Classification Demo](https://github.com/nihaltavanur/cyberbullying-detection-demo). It uses a TF-IDF baseline and synthetic data; it is not the original fine-tuned BERT project described above.
