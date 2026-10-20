@@ -1,4 +1,4 @@
-# Hi, I'm Mohammed Nihal 👋
+# Hi, I'm Mohammed Nihal A 👋
 
 B.Tech graduate in Artificial Intelligence and Data Science from MES College of Engineering. I’m interested in data analytics, machine learning, and building practical software projects.
 
