@@ -58,3 +58,9 @@ Contributed to proof-of-concept projects and client assignments applying data an
 ## Project Demo
 
 I also created a separate portfolio demo: [Cyberbullying Text Classification Demo](https://github.com/nihaltavanur/cyberbullying-detection-demo). It uses a TF-IDF baseline and synthetic data; it is not the original fine-tuned BERT project described above.
+
+
+## Demo repositories
+
+- [Cyberbullying Detection Demo](https://github.com/nihaltavanur/cyberbullying-detection-demo) — an independent TF-IDF and Logistic Regression demo, separate from the original BERT project.
+- [Smart Glass Vision Assistance Demo](https://github.com/nihaltavanur/smart-glass-vision-demo) — a hardware-free OCR demo with manually simulated distance input, separate from the original hardware prototype.
